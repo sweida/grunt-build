@@ -1,2 +1,4 @@
-# grunt-build
-利用grunt打包
+## gulp-demo
+利用gulp打包
+
+运行gulp
