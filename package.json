@@ -18,9 +18,16 @@
   "homepage": "https://github.com/sweida/gulp-demo#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "less": "^2.7.3",
-    "gulp-less": "^3.5.0",
     "gulp-clean-css": "3.9.4",
-    "gulp-htmlmin": "4.0.0"
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^1.1.0",
+    "gulp-htmlmin": "4.0.0",
+    "gulp-less": "^3.5.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-make-css-url-version": "0.0.13",
+    "gulp-rev-append": "^0.1.8",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.5",
+    "less": "^2.7.3"
   }
 }
